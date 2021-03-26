@@ -1,6 +1,6 @@
-### Anime Waver
+## Anime Waver
 
-## To view this webpage
+### To view this webpage
 
 1. Get the repo
 
@@ -10,13 +10,13 @@ git clone https://github.com/Mathesh099/frontend.git
 
 2. Change directory to **frontend**
 
-``` 
+```cmd 
 cd frontend/ 
 ```
 
 3. To get the files from **Project-1** branch
 
-``` 
+```logogram 
 git fetch && git checkout Project-1 
 ```
 
